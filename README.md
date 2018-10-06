@@ -1,3 +1,5 @@
+This repository is forked from [here](https://github.com/Sagar-i7/Pattern_In_C).
+
 # Patterns in C language
 
 - This repository contains different pattern that can be written using C language!!
